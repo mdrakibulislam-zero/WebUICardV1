@@ -1,5 +1,5 @@
 ## Web UI Card-V1:
-This is a simple card user interface design based on Web. It is a very simple and refreshing web card with nice hover effact and professional color matching.
+This is a simple card user interface design based on Web. It is a very simple and refreshing web card with nice hover effect and professional color matching.
 
 
 ## Outcome:
